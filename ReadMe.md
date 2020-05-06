@@ -1,5 +1,3 @@
-#### Day1
-
 #####  메모리 영역
 
 - code, data, stack heap
